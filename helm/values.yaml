@@ -1,0 +1,11 @@
+image:
+  url: <image-url>
+  
+secret:
+  API_ENDPOINT: <API_ENDPOINT>
+  API_TOKEN: <API_TOKEN>
+
+ports:
+  containerPort: 9101
+  servicePort: 9101
+
